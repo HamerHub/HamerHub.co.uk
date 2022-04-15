@@ -23,5 +23,6 @@ letter-spacing: 2px
 }
 #funHeader {
 color: white;
+white-space: pre;
 
 }
